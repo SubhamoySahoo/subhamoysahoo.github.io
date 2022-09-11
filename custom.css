@@ -13,7 +13,7 @@
     /* Jumbotron background image */
 
     .jumbotron{
-  	background-image: url("./DSC_0351.jpg");
+  	background-image: url("/DSC_0351.jpg");
   	background-size: cover;
 	background-position: center;
 	color: blue,
